@@ -1,5 +1,5 @@
 # unsupervised-learning-basics
-Repositório contendo um tutorial básico para métodos de aprendizado não supervisionado.
+Repositório contendo um tutorial básico para métodos de aprendizado não supervisionado e uma implementação da Rede ART
 
 
 ### Requisitos:
